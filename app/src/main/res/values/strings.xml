@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Studentska Sluzba</string>
+    <string name="Connect">Connect</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Role">Role</string>
+    <string name="AddStudent">Dodaj korisnika</string>
+    <string name="AddPredmet">Dodaj/azuriraj predmet</string>
+    <string name="Search">Search</string>
+    <string name="Enter">Enter</string>
+</resources>
